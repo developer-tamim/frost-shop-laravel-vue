@@ -239,12 +239,6 @@ export default {
 }
 </style>
 
-<!-- test text -->
-<!-- test text -->
-<!-- test text -->
-<!-- test text -->
-<!-- test text -->
-<!-- test text -->
 
 <!-- <script setup>
 import Checkbox from '@/Components/Checkbox.vue';
